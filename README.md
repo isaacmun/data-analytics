@@ -1,7 +1,8 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# ProsperLoan dataset Exploration 
+## by iSAAC
 
 ## Dataset
+
 
 The dataset used for this project is the Prosper Loan Dataset, which is America’s lending platform.
 his data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, borrower employment status, borrower credit history, payment information and other.
